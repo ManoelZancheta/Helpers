@@ -1,0 +1,23 @@
+unit uHelperEhPar;
+
+interface
+
+uses Vcl.StdCtrls, System.SysUtils;
+
+type
+  TEditHelper = class helper for TEdit
+    function EhPar: boolean;
+  end;
+
+
+implementation
+
+{ TEditHelper }
+
+function TEditHelper.EhPar: boolean;
+begin
+   result := ( strtoint(Self.text) mod 2 ) = 0;
+end;
+
+end.
+

@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2023/04/18 08:37:14.000.020,=C:\Users\manoe\Documents\Embarcadero\Studio\Projects\Unit2.pas</Transaction>
+    <Transaction>2023/05/10 10:58:51.000.648,=C:\Users\manoe\Documents\Embarcadero\Studio\Projects\Unit2.pas</Transaction>
+    <Transaction>2023/07/07 12:10:16.000.973,=C:\Users\manoe\Documents\Embarcadero\Studio\Projects\Unit2.pas</Transaction>
+    <Transaction>2023/09/08 11:55:19.000.842,=C:\Users\manoe\Documents\Embarcadero\Studio\Projects\Unit2.pas</Transaction>
+    <Transaction>2023/09/08 16:11:51.000.372,C:\Users\manoe\Documents\Embarcadero\Studio\Projects\Unit2.dfm=C:\Aulas\uHelpers.dfm</Transaction>
+    <Transaction>2023/09/08 16:11:51.000.372,C:\Users\manoe\Documents\Embarcadero\Studio\Projects\Unit2.pas=C:\Aulas\uHelpers.pas</Transaction>
+    <Transaction>2023/09/08 16:34:53.000.788,C:\Users\manoe\Documents\Embarcadero\Studio\Projects\Project2.dproj=C:\Aulas\Helpers.dproj</Transaction>
+    <Transaction>2023/09/08 17:30:51.000.760,=C:\Aulas\Unit1.pas</Transaction>
+    <Transaction>2023/09/08 17:35:09.000.073,C:\Aulas\Unit1.pas=C:\Aulas\uHelperEstaVazio.pas</Transaction>
+    <Transaction>2023/09/08 17:42:13.000.939,=C:\Aulas\Unit1.pas</Transaction>
+    <Transaction>2023/09/08 17:47:16.000.345,C:\Aulas\Unit1.pas=C:\Aulas\uHelperEhPar.pas</Transaction>
+    <Transaction>2023/09/11 15:50:34.000.294,=C:\Aulas\Unit1.pas</Transaction>
+    <Transaction>2023/09/11 15:50:57.000.071,C:\Aulas\Unit1.pas=C:\Aulas\uHelperDataset.pas</Transaction>
+    <Transaction>2023/09/11 17:35:13.000.277,=C:\Aulas\Unit1.pas</Transaction>
+  </Transactions>
+</BorlandProject>
